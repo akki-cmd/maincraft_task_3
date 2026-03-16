@@ -15,12 +15,3 @@ This project is a simple full‑stack ToDo application built using the MERN stac
 - Edit Tasks
 - Delete Tasks
 
-## Run Backend
-cd backend
-npm install
-npm run dev
-
-## Run Frontend
-cd frontend
-npm install
-npm start
